@@ -167,7 +167,7 @@ RAILS_ASSUME_SSL=true
 
 Una vez completado, tendrás:
 
-✅ **Maybe Finance** completamente funcional  
+✅ **ObieBooks** completamente funcional  
 ✅ **Hospedado en Railway** con escalabilidad automática  
 ✅ **Base de datos PostgreSQL** configurada  
 ✅ **Redis** para jobs en background  
@@ -189,4 +189,4 @@ Una vez completado, tendrás:
 
 **¿Listo para comenzar?** 🚀
 
-Sigue los pasos del **PASO 2** y tendrás Maybe funcionando en Railway en menos de 20 minutos. 
+Sigue los pasos del **PASO 2** y tendrás ObieBooks funcionando en Railway en menos de 20 minutos. 

@@ -1,4 +1,4 @@
-# 🚀 Guía Completa: Despliegue de Maybe en Railway
+# 🚀 Guía Completa: Despliegue de ObieBooks en Railway
 
 ## ✅ **PASO 1: Preparación Inicial**
 
@@ -148,7 +148,7 @@ bundle exec rails db:create db:migrate db:seed
 
 ### 6.3 Verificar Funcionamiento
 1. Ve a la URL de tu aplicación (Railway te la proporcionará)
-2. Deberías ver la página de login de Maybe
+2. Deberías ver la página de login de ObieBooks
 3. Registra tu primera cuenta
 
 ## ✅ **PASO 7: Configurar Dominio Personalizado**
@@ -173,7 +173,7 @@ APP_DOMAIN=tu-dominio-personalizado.com
 - Revisa el uso de recursos regularmente
 
 ### 8.2 Actualizaciones
-Para actualizar Maybe:
+Para actualizar ObieBooks:
 1. Haz push a tu repositorio GitHub
 2. Railway desplegará automáticamente
 3. Las migraciones se ejecutarán automáticamente
@@ -216,4 +216,4 @@ RAILS_ASSUME_SSL=true
 - [ ] Primera cuenta registrada
 - [ ] Dominio personalizado configurado (opcional)
 
-¡Listo! Tu aplicación Maybe debería estar completamente funcional en Railway. 🎉 
+¡Listo! Tu aplicación ObieBooks debería estar completamente funcional en Railway. 🎉 

@@ -1,7 +1,7 @@
 
 <img width="1190" alt="maybe_hero" src="https://github.com/user-attachments/assets/13fc5ef4-ce0f-4073-a163-9dbc3eb4c8e5" />
 
-# Maybe: The personal finance app for everyone
+# ObieBooks: The personal finance app for everyone
 
 <b>Get
 involved: [Discord](https://link.maybe.co/discord) • [Website](https://maybefinance.com) • [Issues](https://github.com/maybe-finance/maybe/issues)</b>
@@ -9,7 +9,7 @@ involved: [Discord](https://link.maybe.co/discord) • [Website](https://maybefi
 ## Backstory
 
 We spent the better part of 2021/2022 building a personal finance + wealth
-management app called, Maybe. Very full-featured, including an "Ask an Advisor"
+management app called, ObieBooks. Very full-featured, including an "Ask an Advisor"
 feature which connected users with an actual CFP/CFA to help them with their
 finances (all included in your subscription).
 
@@ -22,9 +22,9 @@ We're now reviving the product as a fully open-source project. The goal is to
 let you run the app yourself, for free, and use it to manage your own finances
 and eventually offer a hosted version of the app for a small monthly fee.
 
-## Maybe Hosting
+## ObieBooks Hosting
 
-There are 2 primary ways to use the Maybe app:
+There are 2 primary ways to use the ObieBooks app:
 
 1. Managed (easiest) - we're in alpha and release invites in our Discord
 2. [Self-host with Docker](docs/hosting/docker.md)
@@ -48,7 +48,7 @@ https://oss.skylight.io/app/applications/XDpPIXEX52oi/recent/6h/endpoints
 
 ## Local Development Setup
 
-**If you are trying to _self-host_ the Maybe app, stop here. You
+**If you are trying to _self-host_ the ObieBooks app, stop here. You
 should [read this guide to get started](docs/hosting/docker.md).**
 
 The instructions below are for developers to get started with contributing to the app.
@@ -82,7 +82,7 @@ For further instructions, see guides below.
 
 If you'd like multi-currency support, there are a few extra steps to follow.
 
-1. Sign up for an API key at [Synth](https://synthfinance.com). It's a Maybe
+1. Sign up for an API key at [Synth](https://synthfinance.com). It's a ObieBooks
    product and the free plan is sufficient for basic multi-currency support.
 2. Add your API key to your `.env` file.
 
@@ -99,6 +99,6 @@ If you'd like multi-currency support, there are a few extra steps to follow.
 
 ## Copyright & license
 
-Maybe is distributed under
+ObieBooks is distributed under
 an [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE). "
-Maybe" is a trademark of Maybe Finance, Inc.
+ObieBooks" is a trademark of ObieBooks, Inc.

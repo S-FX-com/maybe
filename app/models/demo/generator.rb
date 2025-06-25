@@ -403,7 +403,7 @@ class Demo::Generator
     def create_house_and_mortgage!(family)
       house = family.accounts.create! \
         accountable: Property.new,
-        name: "123 Maybe Way",
+        name: "123 ObieBooks Way",
         balance: 560000,
         currency: "USD"
 

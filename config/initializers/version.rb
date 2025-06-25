@@ -1,4 +1,4 @@
-module Maybe
+module ObieBooks
   class << self
     def version
       Semver.new(semver)
